@@ -1,0 +1,12 @@
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\bin\Debug\net8.0\Damain.ClientComments.cs.deps.json
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\bin\Debug\net8.0\Damain.ClientComments.cs.dll
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\bin\Debug\net8.0\Damain.ClientComments.cs.pdb
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.AssemblyInfoInputs.cache
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.AssemblyInfo.cs
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.csproj.CoreCompileInputs.cache
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.sourcelink.json
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.dll
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\refint\Damain.ClientComments.cs.dll
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\Damain.ClientComments.cs.pdb
+C:\Users\aproc\source\repos\ReadClientsComments.cs\Damain.ClientComments.cs\obj\Debug\net8.0\ref\Damain.ClientComments.cs.dll
