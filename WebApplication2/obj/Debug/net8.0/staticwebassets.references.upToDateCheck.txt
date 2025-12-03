@@ -1,0 +1,4 @@
+C:\Users\aproc\source\repos\ReadClientsComments.cs\ReadClientsComments.cs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aproc\source\repos\ReadClientsComments.cs\ReadClientsComments.cs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aproc\source\repos\ReadClientsComments.cs\ReadClientsComments.cs\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\aproc\source\repos\ReadClientsComments.cs\ReadClientsComments.cs\obj\Debug\net8.0\staticwebassets.build.json
