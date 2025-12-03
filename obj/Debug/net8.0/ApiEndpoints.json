@@ -1,0 +1,149 @@
+[
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ClientControllers",
+    "Method": "Get",
+    "RelativePath": "api/ClientControllers/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ClientControllers",
+    "Method": "Get",
+    "RelativePath": "api/ClientControllers/GetAllClients",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ClientControllers",
+    "Method": "Post",
+    "RelativePath": "api/ClientControllers/PostClient",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "client",
+        "Type": "ReadClientsComments.cs.Models.Entities.ViuwClient",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ProdutsController",
+    "Method": "GetById",
+    "RelativePath": "api/Produts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ProdutsController",
+    "Method": "Get",
+    "RelativePath": "api/Produts/GetAllProducts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.ProdutsController",
+    "Method": "Post",
+    "RelativePath": "api/Produts/PostProduct",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "product",
+        "Type": "ReadClientsComments.cs.Models.Entities.ViuwProducts",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.SocialController",
+    "Method": "Get",
+    "RelativePath": "api/Social/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.SocialController",
+    "Method": "Get",
+    "RelativePath": "api/Social/GetAllComments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.SocialController",
+    "Method": "Post",
+    "RelativePath": "api/Social/PostSocialComment",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "ReadClientsComments.cs.Models.Entities.ViuwSocialComments",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ReadClientsComments.cs.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ReadClientsComments.cs.WeatherForecast, ReadClientsComments.cs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
