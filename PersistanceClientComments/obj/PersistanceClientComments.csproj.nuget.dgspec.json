@@ -1,0 +1,309 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\PersistanceClientComments\\PersistanceClientComments.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\ApplicacionClientComments.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\ApplicacionClientComments.cs.csproj",
+        "projectName": "ApplicacionClientComments.cs",
+        "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\ApplicacionClientComments.cs.csproj",
+        "packagesPath": "C:\\Users\\aproc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aproc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj": {
+                "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj"
+              },
+              "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\ReadClientsComments.cs.csproj": {
+                "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\ReadClientsComments.cs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj",
+        "projectName": "Damain.ClientComments.cs",
+        "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj",
+        "packagesPath": "C:\\Users\\aproc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aproc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\PersistanceClientComments\\PersistanceClientComments.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\PersistanceClientComments\\PersistanceClientComments.csproj",
+        "projectName": "PersistanceClientComments",
+        "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\PersistanceClientComments\\PersistanceClientComments.csproj",
+        "packagesPath": "C:\\Users\\aproc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\PersistanceClientComments\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aproc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\ApplicacionClientComments.cs.csproj": {
+                "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ApplicacionClientComments.cs\\ApplicacionClientComments.cs.csproj"
+              },
+              "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj": {
+                "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\Damain.ClientComments.cs\\Damain.ClientComments.cs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[33.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\ReadClientsComments.cs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\ReadClientsComments.cs.csproj",
+        "projectName": "ReadClientsComments.cs",
+        "projectPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\ReadClientsComments.cs.csproj",
+        "packagesPath": "C:\\Users\\aproc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aproc\\source\\repos\\ReadClientsComments.cs\\ReadClientsComments.cs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aproc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
