@@ -14,9 +14,7 @@ namespace Damain.ClientComments.cs.Dwbh.Dimensions
         [Key]  
        
         public int IdWeb { get; set; }  
-
         public string? Comentario { get; set; }
-
         public string? Rating { get; set; }     
 
 

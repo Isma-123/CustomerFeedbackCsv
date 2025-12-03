@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Damain.ClientComments.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91363a6a38cac74991560e10b5febb764fc6d72d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03fa06ae9360bd88ee43624a1737c8108253ed6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Damain.ClientComments.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Damain.ClientComments.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
